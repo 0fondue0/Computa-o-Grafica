@@ -1,4 +1,4 @@
-# Computa-o-Grafica
+# Computação-Grafica
 Material de Computação Grafica
 
  **_Professora Lenice_**
